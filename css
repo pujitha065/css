@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+	background-color:yellow;
+    text-align:center;
+    opacity:3
+    }
+p{	
+	background-color:lightblue;
+	text-align:justify;
+    color:red;
+    opacity:10
+    }
+ul.a
+{	
+	background-color:pink;
+	style-text-format:circle;
+    opacity:5;
+    }
+</style>
+</head>
+<h1>ECE</h1>
+<p>6th semester</p>
+<ul class="a">
+	<li>DSP</li>
+	<li>MWE</li>
+    <li>EI</li>
+    <li>MPI</li>
+</ul>
+</html>
+    
